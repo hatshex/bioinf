@@ -3,4 +3,5 @@
 DNA >> RNA >> proteínas
 
 ## Videos interesantes
-[The Sanger Method of DNA Sequencing](https://www.youtube.com/watch?v=FvHRio1yyhQ)
+* [The Sanger Method of DNA Sequencing](https://www.youtube.com/watch?v=FvHRio1yyhQ)
+* [Illumina Sequencing Technology](https://www.youtube.com/watch?v=womKfikWlxM)
